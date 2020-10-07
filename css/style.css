@@ -1,0 +1,60 @@
+body {
+  background-image: url("https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg");
+  margin: auto;
+  padding: 50px;
+}
+
+#gmail {
+  color: white;
+  font-size: 25px;
+  position: relative;
+  bottom: 30px;
+}
+
+h3 {
+  color: white;
+  font-size: 25px;
+  bottom: 30px;
+}
+
+#number {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 15px;
+}
+.chiusa {
+  background-color: lightgrey;
+  border: 1px solid black;
+  }
+
+.aperta {
+    background-color: white;
+    border: 1px solid black;
+  }
+
+.left {
+   display: inline-block;
+
+ }
+
+.right {
+   display: inline-block;
+ }
+
+.subject {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.text {
+  color: grey;
+  font-size: 20px;
+  font-weight: bold;
+}
+footer {
+   text-align: center;
+   color: white;
+   font-size: 25px;
+   font-weight: bold;
+ }
